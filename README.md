@@ -2,4 +2,4 @@
 
 Nesneye Yönelik Programlama Proje Ödevi
 
-w/https://github.com/CodeReign
+w/https://github.com/BatuhanDemiray
